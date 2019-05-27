@@ -1,0 +1,13 @@
+D:\.VS Projects\ButtonTest\ButtonTest\obj\Debug\ButtonTest.csprojAssemblyReference.cache
+D:\.VS Projects\ButtonTest\ButtonTest\obj\Debug\ButtonTest.csproj.CoreCompileInputs.cache
+D:\.VS Projects\ButtonTest\ButtonTest\bin\Debug\ButtonTest.exe.config
+D:\.VS Projects\ButtonTest\ButtonTest\bin\Debug\ButtonTest.exe
+D:\.VS Projects\ButtonTest\ButtonTest\bin\Debug\ButtonTest.pdb
+D:\.VS Projects\ButtonTest\ButtonTest\bin\Debug\OpenTK.dll
+D:\.VS Projects\ButtonTest\ButtonTest\bin\Debug\OpenTK.pdb
+D:\.VS Projects\ButtonTest\ButtonTest\bin\Debug\OpenTK.xml
+D:\.VS Projects\ButtonTest\ButtonTest\obj\Debug\ButtonTest.csproj.CopyComplete
+D:\.VS Projects\ButtonTest\ButtonTest\obj\Debug\ButtonTest.exe
+D:\.VS Projects\ButtonTest\ButtonTest\obj\Debug\ButtonTest.pdb
+D:\.VS Projects\ButtonTest\ButtonTest\bin\Debug\src\shaders\fragment.frag
+D:\.VS Projects\ButtonTest\ButtonTest\bin\Debug\src\shaders\vertex.vert
